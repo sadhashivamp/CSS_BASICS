@@ -1,0 +1,98 @@
+
+  .yellow-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00FF00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
+  }
+
+  .one {
+    color: rgb(0,0,0);
+  }
+  .two {
+    color: rgb(255,0,0);
+  }
+  .three {
+    color: rgb(255,0,255);
+  }
+  .four {
+    color: rgb(199,199,0);
+  }
+  
+  
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+    padding: 10px;
+  }
+
+  .red-box {
+    background-color: crimson;
+    color: #fff;
+    padding: 1.5em;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    padding: 40px 20px 20px 40px;
+  }
+
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    margin: 40px 20px 20px 40px;
+  }
+
+  .red-text {
+    color: red;
+  }
+  [type='checkbox'] {
+    margin: 10px 0px 15px 0px;
+}
+
+  h2 {
+    font-family: Lobster, monospace;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+
+  .silver-background {
+    background-color: silver;
+  }
